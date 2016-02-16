@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./destoicorumstud00strigoog_0006.png"; bbox 0 0 3522 5248; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 200 773 1721 1509">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 200 667 1721 1509">
+     <span class='ocr_line' id='line_1_1' title="bbox 482 773 1121 1014; baseline 0 -46"><span class='ocrx_word' id='word_1_1' title='bbox 482 1009 484 1014; x_wconf 5' lang='grc' dir='ltr'>ἱ</span> <span class='ocrx_word' id='word_1_2' title='bbox 633 773 1121 974; x_wconf 70' lang='lat' dir='ltr'><strong>BRESLAUER</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 200 1297 1721 1509; baseline -0.001 -10"><span class='ocrx_word' id='word_1_3' title='bbox 200 1297 828 1509; x_wconf 59' lang='lat' dir='ltr'>Pfflhofflfflseflss</span> <span class='ocrx_word' id='word_1_4' title='bbox 863 1301 1541 1506; x_wconf 69' lang='lat' dir='ltr'><strong>ABHANDLUNGEN.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1717 1369 1721 1380; x_wconf 60' lang='lat'><em>=</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1766 5248">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1766 5248">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1766 5248; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1766 5248; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
